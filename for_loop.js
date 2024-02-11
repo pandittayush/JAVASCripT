@@ -2,7 +2,6 @@
 //     console.log(i);
 // }
 
-
 //while loops
 // it will execute at least one time 
 
