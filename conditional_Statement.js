@@ -26,6 +26,16 @@ else{
 
 // Home Work Switch case form mdn 
 
+// Switch Case statement 
+
+let age = prompt("what is your age")
+
+switch(age){
+    case 12:
+        console.log("Your age is 12")
+    
+}
+
 
 
 
