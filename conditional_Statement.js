@@ -42,12 +42,6 @@ switch(age){
 
 
 
-
-
-
-
-
-
 // ternary Operator
 
 console.log("you can drive")
