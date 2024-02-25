@@ -6,7 +6,7 @@
 // it will execute at least one time 
 
 // while(conditons){
-//     statements 
+//     statements l
 // }
 
 let n = prompt("Enter the number of n")
