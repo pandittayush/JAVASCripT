@@ -4,7 +4,7 @@
 //     console.log("Age lies b/w 10-20")
 // }else{
 //     console.log("yoou are no one")
-// }
+// 
 let age = prompt("What is your age")
 age = Number.parseInt(age)  //if i will not write this then you have to write the cases in string ('')like that
 switch(age){
