@@ -56,5 +56,6 @@ console.log("1" + 2);
 console.log(2 + 2 + "2");
 console.log(1 + 2 + "2");
 console.log("1" + 2 + 2);
+# code written by ayush pandey
 
 
