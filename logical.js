@@ -1,3 +1,4 @@
+
 // let age = alert("What is yoour age");
 // age = Number.parseInt(age)
 // if(age>10&&age<20){
